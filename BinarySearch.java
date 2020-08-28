@@ -1,4 +1,4 @@
-//Sibusiso Dlamini
+//Sibusiso Dlamin
 import java.util.Random;
 
 public class BinarySearch {
